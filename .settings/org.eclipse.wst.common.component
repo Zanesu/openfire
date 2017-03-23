@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="openfire">
+        <wb-resource deploy-path="/" source-path="/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/broadcast/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/callbackOnOffline/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/clientControl/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/clustering/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/contentFilter/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/contentFilter/src/test/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/dbaccess/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/emailListener/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/emailOnAway/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/fastpath/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/gojara/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/hazelcast/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/jingleNodes/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/jmxweb/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/justmarried/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/kraken/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/loadStats/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/monitoring/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/motd/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/mucservice/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/nodejs/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/packetFilter/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/presence/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/rayo/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/registration/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/restAPI/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/search/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/sip/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/stunserver/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/subscription/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/userCreation/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/userImportExport/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/userservice/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/websocket/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/xmldebugger/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/" source-path="/src/test/throttletest/src"/>
+        <wb-resource deploy-path="/" source-path="/src/tools/anttask"/>
+        <wb-resource deploy-path="/" source-path="/target/openfire/plugins/groupchat/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/chatlog/src/java"/>
+        <wb-resource deploy-path="/" source-path="/src/plugins/offlinefriend/src/java"/>
+    </wb-module>
+</project-modules>

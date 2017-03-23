@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>  
+    <class>com.syj.mygroup.GroupExpand</class>  
+    <name>mygroup</name>  
+    <description>xixixix</description>  
+    <author>syj</author>  
+    <version>1.0.0</version>  
+    <date>14/07/2014</date>  
+    <minServerVersion>3.9.0</minServerVersion>  
+      
+    <adminconsole>  
+    </adminconsole>  
+  
+</plugin>  
